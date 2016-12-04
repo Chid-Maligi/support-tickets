@@ -8,3 +8,9 @@ app/ngmin
 app/ngAnnotate
 app/dist
 *log*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
